@@ -1,0 +1,6 @@
+pip install ax25
+pip install pyax25
+pip install pyham_ax25
+pip install crcmod
+pip install numpy
+pip install scipy
