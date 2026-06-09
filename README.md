@@ -6,11 +6,11 @@ Transmission and reception of AX.25 telemetry protocol using GNURadio, USRP and 
 <p align="center">
   <img src="images/Direwolf.png" width="90"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="images/Python_logo_and_wordmark.svg.png" width="280"/>
+    <img src="images/Python_logo_and_wordmark.svg.png" width="250"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="images/Ettus.jpeg" width="200"/>
+   <img src="images/Ettus.jpeg" width="180"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="images/Gnuradio_logo.svg.png" width="300"/>
+   <img src="images/Gnuradio_logo.svg.png" width="250/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   
 <p align="center">
