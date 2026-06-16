@@ -22,5 +22,11 @@ Transmission and reception of AX.25 telemetry protocol using GNURadio, USRP and 
 ![AX.25](https://img.shields.io/badge/Protocol-AX.25-red)
 ![AFSK](https://img.shields.io/badge/Modulation-AFSK1200-purple)
 
+
+<p/>
+  <img src="images/Direwolf.png" width="90"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
+
 ---
 
